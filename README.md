@@ -29,7 +29,7 @@ We evaluate our approach on the MIMIC-3 and PubMed datasets, demonstrating up to
 
 ![image](https://github.com/shahriyar-zaman/An_Efficient_Text_Cleaning_Pipeline_For_Clinical_Text_For_Transformer_Encoder_Models/blob/cff99d775cbea4921f9e32ed074ac4040452d487/Figures/sys_acrh.png)
 
-**Fig. 1: Workflow of the preprocessing pipeline and model evaluation.**
+**Fig. 1: This figure illustrates the step-by-step workflow of our experimental process for enhancing the quality of clinical text. It encompasses three main stages: training base models using pre-trained architectures, exploring various preprocessing techniques, and implementing a novel pipeline integrating the most effective preprocessing methods.**
 
 ## Results
 
