@@ -18,12 +18,7 @@ We evaluate our approach on the MIMIC-3 and PubMed datasets, demonstrating up to
 | Training Samples               | 33,954                           | 9,550                 |
 | Test Samples                   | 9,822                            | 2,888                 |
 | Class Labels                   | 2 (Mortality: Yes/No)            | 5 (Conditions)        |
-| Avg. Token Count per Document   | 18,450                           | 2,830                 |
 
-| Data Description  | MIMIC-III | PubMed |
-|------------------|-----------|--------|
-| Total Instances  | 43,776    | 12,438 |
-| Classes          | 2         | 5      |
 
 ## Methodology
 
