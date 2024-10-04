@@ -91,7 +91,7 @@ Feel free to modify the splits or experiment with different datasets based on yo
 
 For those interested in fine-tuning the models further, we recommend using the `train_model.py` script, which includes hyperparameters and configurations for:
 
-- Epochs: 10 (Early Stopping)
+- Epochs: 20 (Early Stopping)
 - Batch Size: 32
 - Learning Rate: 2e-5
 - Models: BERT, BioBERT, BioClinicalBERT, RoBERTa
