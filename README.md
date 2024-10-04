@@ -97,7 +97,7 @@ For those interested in fine-tuning the models further, we recommend using the `
 - Models: BERT, BioBERT, BioClinicalBERT, RoBERTa
 
 ```bash
-python train_model.py --model bert-base --epochs 10 --batch_size 32 --learning_rate 2e-5
+python train_model.py --model bert-base --epochs 20 --batch_size 32 --learning_rate 2e-5
 ```
 
 ## References
