@@ -32,7 +32,7 @@ We evaluate our approach on the MIMIC-3 and PubMed datasets, demonstrating up to
 3. **Evaluation**: Models were evaluated on MIMIC-3 and PubMed datasets for improvements in accuracy.
 4. **Result Analysis**: Models trained with the proposed pipeline consistently showed better accuracy compared to baseline preprocessing methods.
 
-![image]([https://github.com/user-attachments/assets/fcdad47b-a932-425f-956c-e68b4198ee78](https://github.com/shahriyar-zaman/An_Efficient_Text_Cleaning_Pipeline_For_Clinical_Text_For_Transformer_Encoder_Models/blob/cff99d775cbea4921f9e32ed074ac4040452d487/Figures/sys_acrh.png))
+![image](https://github.com/shahriyar-zaman/An_Efficient_Text_Cleaning_Pipeline_For_Clinical_Text_For_Transformer_Encoder_Models/blob/cff99d775cbea4921f9e32ed074ac4040452d487/Figures/sys_acrh.png)
 
 **Fig. 1: Workflow of the preprocessing pipeline and model evaluation.**
 
