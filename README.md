@@ -65,7 +65,7 @@ To get started with our models, follow the steps below:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/EncryptedBinary/Clinical_Text_Cleaning_Pipeline.git
+git clone https://github.com/shahriyar-zaman/An_Efficient_Text_Cleaning_Pipeline_For_Clinical_Text_For_Transformer_Encoder_Models.git
 cd Clinical_Text_Cleaning_Pipeline
 ```
 
